@@ -32,4 +32,4 @@ Este projeto é uma aplicação Flask para cadastro de produtores rurais. A apli
    cd repositorio
 
 1. **Crie e inicie os contêineres com Docker Compose:**
-   docker-compose up --build
+   `docker-compose up --build`
